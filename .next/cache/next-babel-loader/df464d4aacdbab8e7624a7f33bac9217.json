@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from \"react\";\nimport Head from \"next/head\";\n\nconst HeadComponent = ({\n  titleHead\n}) => __jsx(\"head\", null, __jsx(\"title\", null, titleHead));\n\nexport default HeadComponent;","map":null,"metadata":{},"sourceType":"module"}

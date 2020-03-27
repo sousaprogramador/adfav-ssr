@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from \"react\";\nimport Head from \"next/head\";\n\nvar HeadComponent = function HeadComponent(_ref) {\n  var titleHead = _ref.titleHead;\n  return __jsx(Head, null, __jsx(\"title\", null, titleHead));\n};\n\nexport default HeadComponent;","map":null,"metadata":{},"sourceType":"module"}
